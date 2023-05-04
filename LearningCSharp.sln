@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCSharp", "LearningC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{36519052-DCFF-46D8-93E2-83C609861DE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticConstructorAndNonStaticConstructor", "StaticConstructorAndNonStaticConstructor\StaticConstructorAndNonStaticConstructor.csproj", "{6D3888C1-16BD-4462-8770-6106122269E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{36519052-DCFF-46D8-93E2-83C609861DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36519052-DCFF-46D8-93E2-83C609861DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36519052-DCFF-46D8-93E2-83C609861DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D3888C1-16BD-4462-8770-6106122269E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3888C1-16BD-4462-8770-6106122269E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3888C1-16BD-4462-8770-6106122269E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3888C1-16BD-4462-8770-6106122269E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
